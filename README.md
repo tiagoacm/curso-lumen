@@ -1,3 +1,8 @@
+# API REST - curso
+
+API REST desenvolvida no curso da Alura usando Lumen
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
